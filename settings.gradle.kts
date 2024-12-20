@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FlashMaster"
+rootProject.name = "FlashcartQuiz"
 include(":app")
